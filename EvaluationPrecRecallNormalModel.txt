@@ -1,0 +1,169 @@
+Total correctly classified instances : 593
+Out of total + 1104
+Overall Precision: 0.5371376811594203
+Overall Recall: 0.5371376811594203
+-----------------------------------------------------
+
+Total correctly classified instances airport : 61
+Out of total + 184
+airport precision : 0.61
+airport recall : 0.33152173913043476
+-----------------------------------------------------
+
+Total correctly classified instances culture : 165
+Out of total + 184
+culture precision : 0.3579175704989154
+culture recall : 0.8967391304347826
+-----------------------------------------------------
+
+Total correctly classified instances fun-nature-sport : 145
+Out of total + 184
+fun-nature-sport precision : 0.614406779661017
+fun-nature-sport recall : 0.7880434782608695
+-----------------------------------------------------
+
+Total correctly classified instances coffee-nighttime-food : 120
+Out of total + 184
+coffee-nighttime-food precision : 0.8571428571428571
+coffee-nighttime-food recall : 0.6521739130434783
+-----------------------------------------------------
+
+Total correctly classified instances shopping-beauty : 93
+Out of total + 184
+shopping-beauty precision : 0.6458333333333334
+shopping-beauty recall : 0.5054347826086957
+-----------------------------------------------------
+
+Total correctly classified instances irrelevant : 9
+Out of total + 184
+irrelevant precision : 0.391304347826087
+irrelevant recall : 0.04891304347826087
+-----------------------------------------------------
+
+When required certainty is over 90%
+Total correctly classified instances : 427
+Out of total + 1104
+Overall Precision: 0.7863720073664825
+Overall Recall: 0.3867753623188406
+-----------------------------------------------------
+
+Total correctly classified instances airport : 34
+Out of total + 184
+airport precision : 0.6538461538461539
+airport recall : 0.18478260869565216
+-----------------------------------------------------
+
+Total correctly classified instances culture : 143
+Out of total + 184
+culture precision : 0.8461538461538461
+culture recall : 0.7771739130434783
+-----------------------------------------------------
+
+Total correctly classified instances fun-nature-sport : 131
+Out of total + 184
+fun-nature-sport precision : 0.793939393939394
+fun-nature-sport recall : 0.7119565217391305
+-----------------------------------------------------
+
+Total correctly classified instances coffee-nighttime-food : 92
+Out of total + 184
+coffee-nighttime-food precision : 0.92
+coffee-nighttime-food recall : 0.5
+-----------------------------------------------------
+
+Total correctly classified instances shopping-beauty : 25
+Out of total + 184
+shopping-beauty precision : 0.5555555555555556
+shopping-beauty recall : 0.1358695652173913
+-----------------------------------------------------
+
+Total correctly classified instances irrelevant : 2
+Out of total + 184
+irrelevant precision : 0.16666666666666666
+irrelevant recall : 0.010869565217391304
+-----------------------------------------------------
+
+When required certainty is over 80%
+Total correctly classified instances : 478
+Out of total + 1104
+Overall Precision: 0.7539432176656151
+Overall Recall: 0.4329710144927536
+-----------------------------------------------------
+
+Total correctly classified instances airport : 45
+Out of total + 184
+airport precision : 0.6521739130434783
+airport recall : 0.24456521739130435
+-----------------------------------------------------
+
+Total correctly classified instances culture : 150
+Out of total + 184
+culture precision : 0.8287292817679558
+culture recall : 0.8152173913043478
+-----------------------------------------------------
+
+Total correctly classified instances fun-nature-sport : 133
+Out of total + 184
+fun-nature-sport precision : 0.7189189189189189
+fun-nature-sport recall : 0.7228260869565217
+-----------------------------------------------------
+
+Total correctly classified instances coffee-nighttime-food : 105
+Out of total + 184
+coffee-nighttime-food precision : 0.8898305084745762
+coffee-nighttime-food recall : 0.5706521739130435
+-----------------------------------------------------
+
+Total correctly classified instances shopping-beauty : 41
+Out of total + 184
+shopping-beauty precision : 0.6119402985074627
+shopping-beauty recall : 0.22282608695652173
+-----------------------------------------------------
+
+Total correctly classified instances irrelevant : 4
+Out of total + 184
+irrelevant precision : 0.2857142857142857
+irrelevant recall : 0.021739130434782608
+-----------------------------------------------------
+
+When required certainty is over 70%
+Total correctly classified instances : 533
+Out of total + 1104
+Overall Precision: 0.7423398328690808
+Overall Recall: 0.48278985507246375
+-----------------------------------------------------
+
+Total correctly classified instances airport : 52
+Out of total + 184
+airport precision : 0.6265060240963856
+airport recall : 0.2826086956521739
+-----------------------------------------------------
+
+Total correctly classified instances culture : 153
+Out of total + 184
+culture precision : 0.8010471204188482
+culture recall : 0.8315217391304348
+-----------------------------------------------------
+
+Total correctly classified instances fun-nature-sport : 137
+Out of total + 184
+fun-nature-sport precision : 0.6954314720812182
+fun-nature-sport recall : 0.7445652173913043
+-----------------------------------------------------
+
+Total correctly classified instances coffee-nighttime-food : 111
+Out of total + 184
+coffee-nighttime-food precision : 0.888
+coffee-nighttime-food recall : 0.6032608695652174
+-----------------------------------------------------
+
+Total correctly classified instances shopping-beauty : 75
+Out of total + 184
+shopping-beauty precision : 0.7075471698113207
+shopping-beauty recall : 0.4076086956521739
+-----------------------------------------------------
+
+Total correctly classified instances irrelevant : 5
+Out of total + 184
+irrelevant precision : 0.3125
+irrelevant recall : 0.02717391304347826
